@@ -1,0 +1,212 @@
+500,Portland-Auburn,ME,false
+501,New York,NY,false
+502,Binghamton,NY,false
+503,Macon,GA,false
+504,Philadelphia,PA,false
+505,Detroit,MI,false
+506,Boston,MA,false
+507,Savannah,GA,false
+508,Pittsburgh,PA,false
+509,Ft Wayne,IN,false
+510,Cleveland,OH,false
+511,Washington,DC,false
+512,Baltimore,MD,false
+513,Flint,MI,false
+514,Buffalo,NY,false
+515,Cincinnati,OH,false
+516,Erie,PA,false
+517,Charlotte,NC,false
+518,Greensboro,NC,false
+519,Charleston,SC,false
+520,Augusta,GA,false
+521,Providence,RI,false
+522,Columbus,GA,false
+523,Burlington,VT,false
+524,Atlanta,GA,false
+525,Albany,GA,false
+526,Utica-Rome,NY,false
+527,Indianapolis,IN,false
+528,Miami,FL,false
+529,Louisville,KY,false
+530,Tallahassee,FL,false
+531,Tri-Cities,TN,false
+532,Albany-Schenectady-Troy,NY,false
+533,Hartford,CT,false
+534,Orlando,FL,false
+535,Columbus,OH,false
+536,Youngstown-Warren,OH,false
+537,Bangor,ME,false
+538,Rochester,NY,false
+539,Tampa,FL,false
+540,Traverse City-Cadillac,MI,true
+541,Lexington,KY,false
+542,Dayton,OH,false
+543,Springfield-Holyoke,MA,false
+544,Norfolk-Portsmouth,VA,false
+545,Greenville-New Bern-Washington,NC,false
+546,Columbia,SC,false
+547,Toledo,OH,false
+548,West Palm Beach,FL,false
+549,Watertown,NY,false
+550,Wilmington,NC,false
+551,Lansing,MI,false
+552,Presque Isle,ME,false
+553,Marquette,MI,false
+554,Wheeling,WV,false
+555,Syracuse,NY,false
+556,Richmond-Petersburg,VA,false
+557,Knoxville,TN,false
+558,Lima,OH,false
+559,Bluefield-Beckley-Oak Hill,WV,false
+560,Raleigh-Durham,NC,false
+561,Jacksonville,FL,false
+563,Grand Rapids,MI,false
+564,Charleston-Huntington,WV,false
+565,Elmira,NY,false
+566,Harrisburg-Lancaster-Lebanon-York,PA,false
+567,Greenville-Spartenburg,SC,false
+569,Harrisonburg,VA,false
+570,Florence-Myrtle Beach,SC,false
+571,Ft Myers,FL,false
+573,Roanoke-Lynchburg,VA,false
+574,Johnstown-Altoona,PA,false
+575,Chattanooga,TN,false
+576,Salisbury,MD,false
+577,Wilkes Barre-Scranton,PA,false
+581,Terre Haute,IN,false
+582,Lafayette,IN,false
+583,Alpena,MI,false
+584,Charlottesville,VA,false
+588,South Bend,IN,false
+592,Gainesville,FL,false
+596,Zanesville,OH,false
+597,Parkersburg,WV,false
+598,Clarksburg-Weston,WV,false
+600,Corpus Christi,TX,false
+602,Chicago,IL,false
+603,Joplin-Pittsburg,MO,false
+604,Columbia-Jefferson City,MO,true
+605,Topeka,KS,false
+606,Dothan,AL,false
+609,St Louis,MO,false
+610,Rockford,IL,false
+611,Rochester-Mason City-Austin,MN,true
+612,Shreveport,LA,false
+613,Minneapolis-St Paul,MN,false
+616,Kansas City,MO,true
+617,Milwaukee,WI,false
+618,Houston,TX,false
+619,Springfield,MO,false
+620,Tuscaloosa,AL,false
+622,New Orleans,LA,false
+623,Dallas-Fort Worth,TX,false
+624,Sioux City,IA,true
+625,Waco-Temple-Bryan,TX,false
+626,Victoria,TX,false
+627,Wichita Falls,TX,false
+628,Monroe,LA,false
+630,Birmingham,AL,false
+631,Ottumwa-Kirksville,IA,false
+632,Paducah,KY,false
+633,Odessa-Midland,TX,false
+634,Amarillo,TX,false
+635,Austin,TX,false
+636,Harlingen,TX,false
+637,Cedar Rapids-Waterloo,IA,false
+638,St Joseph,MO,false
+639,Jackson,TN,false
+640,Memphis,TN,false
+641,San Antonio,TX,false
+642,Lafayette,LA,false
+643,Lake Charles,LA,false
+644,Alexandria,LA,false
+646,Anniston,AL,false
+647,Greenwood-Greenville,MS,false
+648,Champaign-Springfield-Decatur,IL,false
+649,Evansville,IN,false
+650,Oklahoma City,OK,true
+651,Lubbock,TX,false
+652,Omaha,NE,false
+656,Panama City,FL,true
+657,Sherman,TX,false
+658,Green Bay-Appleton,WI,false
+659,Nashville,TN,false
+661,San Angelo,TX,false
+662,Abilene-Sweetwater,TX,false
+669,Madison,WI,false
+670,Ft Smith-Fay-Springfield,AR,false
+671,Tulsa,OK,false
+673,Columbus-Tupelo-West Point,MS,false
+675,Peoria-Bloomington,IL,false
+676,Duluth,MN,false
+678,Wichita,KS,false
+679,Des Moines,IA,false
+682,Davenport-Rock Island-Moline,IL,false
+686,Mobile,AL,false
+687,Minot-Bismarck-Dickinson,ND,false
+691,Huntsville,AL,false
+692,Beaumont-Port Author,TX,false
+693,Little Rock-Pine Bluff,AR,false
+698,Montgomery,AL,false
+702,La Crosse-Eau Claire,WI,false
+705,Wausau-Rhinelander,WI,false
+709,Tyler-Longview,TX,false
+710,Hattiesburg-Laurel,MS,false
+711,Meridian,MS,false
+716,Baton Rouge,LA,false
+717,Quincy,IL,false
+718,Jackson,MS,false
+722,Lincoln-Hastings,NE,false
+724,Fargo-Valley City,ND,true
+725,Sioux Falls,SD,false
+734,Jonesboro,AR,false
+736,Bowling Green,KY,false
+737,Mankato,MN,false
+740,North Platte,NE,false
+743,Anchorage,AK,false
+744,Honolulu,HI,false
+745,Fairbanks,AK,false
+746,Biloxi-Gulfport,MS,false
+747,Juneau,AK,false
+749,Laredo,TX,false
+751,Denver,CO,false
+752,Colorado Springs,CO,false
+753,Phoenix,AZ,false
+754,Butte-Bozeman,MT,false
+755,Great Falls,MT,false
+756,Billings,MT,false
+757,Boise,ID,false
+758,Idaho Falls-Pocatello,ID,false
+759,Cheyenne,WY,false
+760,Twin Falls,ID,false
+762,Missoula,MT,false
+764,Rapid City,SD,true
+765,El Paso,TX,false
+766,Helena,MT,false
+767,Casper-Riverton,WY,false
+770,Salt Lake City,UT,true
+771,Yuma,AZ,false
+773,Grand Junction,CO,false
+789,Tucson,AZ,false
+790,Albuquerque,NM,false
+798,Glendive,MT,false
+800,Bakersfield,CA,false
+801,Eugene,OR,false
+802,Eureka,CA,false
+803,Los Angeles,CA,false
+804,Palm Springs,CA,false
+807,San Francisco,CA,false
+810,Yakima-Pasco,WA,false
+811,Reno,NV,false
+813,Medford-Klamath Falls,OR,false
+819,Seattle-Tacoma,WA,false
+820,Portland,OR,false
+821,Bend,OR,false
+825,San Diego,CA,false
+828,Monterey-Salinas,CA,false
+839,Las Vegas,NV,false
+855,Santa Barbara,CA,false
+862,Sacramento,CA,false
+866,Fresno,CA,false
+868,Chico-Redding,CA,false
+881,Spokane,WA,false
