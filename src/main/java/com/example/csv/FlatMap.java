@@ -59,7 +59,6 @@ public class FlatMap {
             double latitude = Double.parseDouble(dataArray[1]);
             double longitude = Double.parseDouble(dataArray[0]);
 
-            // Create a new list with the corrected value
             List<Object> correctedValues = Arrays.asList(
               koridor, current_trip_id, color, gps_datetime, dtd, trip_name,
               course, location, bus_code, speed, timestamp, latitude, longitude
